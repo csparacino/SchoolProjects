@@ -54,5 +54,5 @@ function Get-MoreCowbell
 		{
 			Write-Error $_.Exception.Message
 		}
-	}
+
 }
